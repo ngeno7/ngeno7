@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hillary Ngeno.
 - 👀 I’m interested in web development with Flask, Django, Laravel, VueJs and Angular.
-- 🌱 Java.
+- 🌱 Java And Golang.
 - 📫 How to reach me hillaryngeno7@gmail.com
 
 <!---
